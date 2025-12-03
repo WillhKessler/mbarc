@@ -1,8 +1,8 @@
 ---
 title: "Other Organizations"
-layout: wide
+layout: splash
 permalink: /organizations/
-classes: splash
+classes: wide
 organization_row:
   - image_path: /assets/images/unsplash-gallery-image-1-th.jpg
     alt: "placeholder image 1"
