@@ -29,9 +29,9 @@ feature_row:
 # Other Organisations
 {% include feature_row %}
 
-## Adventure Cycling Association
-## Bikepacking Roots
-## Vermont Bikepackers
-## Lichen Bike Tours
+# Adventure Cycling Association
+# Bikepacking Roots
+# Vermont Bikepackers
+# Lichen Bike Tours
 
 
