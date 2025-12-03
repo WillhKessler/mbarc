@@ -12,6 +12,9 @@ feature_row:
     alt: "placeholder image 2"
     title: "Bikepacking Roots"
     excerpt: "Bikepacking Roots supports and advances bikepacking."
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
   - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
     title: "Vermont Bikepackers"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
