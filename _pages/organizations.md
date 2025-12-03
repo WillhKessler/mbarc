@@ -18,17 +18,20 @@ feature_row:
   - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
     title: "Vermont Bikepackers"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  -image_path: /something
+    title: "Radical Adventure Riders (New Haven, CT)
+    exercpt: ""
   - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
     title: "Adirondacks Bikepacking"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 
 ---
-# Other Organizations
+# Other Organisations
 {% include feature_row %}
 
-
-Other Organizations we recommend:
-
-## Bikepacking Roots
 ## Adventure Cycling Association
+## Bikepacking Roots
+## Vermont Bikepackers
+## Lichen Bike Tours
+
 
