@@ -36,7 +36,7 @@ organization_row:
     url: "organizations/#adirondacks-bikepacking"
     btn_label: "Read More"
     btn_class: "btn--inverse"
-    - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
+  - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
     title: "Lichen Bike Tours"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
     url: "organizations/#lichen-bike-tours"
