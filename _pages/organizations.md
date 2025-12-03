@@ -11,7 +11,7 @@ organization_row:
     url: "organizations/#adventure-cycling-association"
     btn_label: "Read More"
     btn_class: "btn--inverse"
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+  - image_path: https://bikepackingroots.org/wp-content/uploads/2022/03/BPR-Logo-black-no-words.png
     alt: "placeholder image 2"
     title: "Bikepacking Roots"
     excerpt: "Bikepacking Roots supports and advances bikepacking."
