@@ -4,7 +4,7 @@ classes: wide
 title: "Eastern Massachusetts Backcountry Adventure Riding Collective"
 header:  
   overlay_filter: "0.3"
-  overlay_image: /assets/images/hero_map.jpg
+  overlay_image: /assets/images/EasternMA_Routes.jpg
   actions:
     - label: "View Routes"
       url: "/routes/"
