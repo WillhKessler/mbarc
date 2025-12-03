@@ -14,7 +14,7 @@ feature_row:
     excerpt: "Bikepacking Roots supports and advances bikepacking, the growth of a diverse bikepacking community, and access to and the conservation of the landscapes and public lands through which we ride."
     url: "#test-link"
     btn_label: "Read More"
-    btn_class: "btn"
+    btn_class: ".btn"
   - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
     title: "Vermont Bikepackers"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
