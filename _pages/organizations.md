@@ -1,6 +1,6 @@
 ---
 title: "Other Organizations"
-layout: single
+layout: wide
 permalink: /organizations/
 classes: splash
 organization_row:
