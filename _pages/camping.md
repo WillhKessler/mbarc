@@ -5,9 +5,9 @@ permalink: /camping/
 classes: wide
 toc: true
 ---
-## Where to go camping
-
+# Where to go camping
 Camping Resources in New England
+
 ## Connecticut
 <object data="../assets/images/CT_DEERPolicy_Procedure 406_Camping - Emergency Stopovers.pdf" width="100" height="100" type='application/pdf'></object>
 ## Maine
