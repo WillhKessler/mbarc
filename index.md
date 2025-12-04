@@ -4,7 +4,7 @@ classes: wide
 title: "Eastern Massachusetts Backcountry Adventure Riding Collective"
 header:  
   overlay_filter: "0.3"
-  overlay_image: /assets/images/EasternMA_routes.png
+  overlay_image: assets/images/sunsetriding.JPG
   actions:
     - label: "View Routes"
       url: "/routes/"
@@ -23,7 +23,7 @@ feature_row:
     url: "/routes/"
     btn_label: "View Routes"
     btn_class: "btn--primary"
-  - image_path: /assets/images/project2.jpg
+  - image_path: assets/images/campingbikes.jpg
     alt: "Camping Resources Image"
     title: "New England Public Camping Resources"
     excerpt: "Camping in New England is difficult. Here is a collection of resources to find public camping options for self-contained travelers"
