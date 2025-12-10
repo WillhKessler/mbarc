@@ -36,6 +36,8 @@ Long-distance hiking trails such as the Appalachian Trail (no bikes allowed), th
 ### Cities and Towns
 Cities and towns across MA maintain forested areas for the enjoyment of their residents and there are no blanket rules governing camping in these areas. We have identified a few locations which indicate camping is allowed with a permit according to the town bylaws. Make sure you plan in advance if you wish to camp in these areas.
 
+<iframe src="https://ridewithgps.com/embeds?type=route&id=53285501&hideSurface=true" style="width: 1px; min-width: 100%; height: 550px; border: none;" scrolling="no"></iframe>
+
 ## New Hampshire
 
 ## Rhode Island
