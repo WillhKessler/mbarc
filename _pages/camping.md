@@ -22,6 +22,7 @@ Connecticut has a standing 'No Turn Away' policy for hikers and bikers at DEER c
 <object data="../assets/images/CT_DEERPolicy_Procedure 406_Camping - Emergency Stopovers.pdf" width="100" height="100" type='application/pdf'></object>
 
 ## Maine
+<iframe src="https://ridewithgps.com/embeds?type=route&id=53292975&hideSurface=true" style="width: 1px; min-width: 100%; height: 550px; border: none;" scrolling="no"></iframe>
 
 ## Massachusetts
 Public Lands in Massachusetts are overseen by a patchwork of entities and municipalities including the Federal Government (US Fish and Wildife Service, FWS), the Commonwealth of Massachusetts, cities and towns, and other entities. Each entity has its own rules governing recreation and camping. Before you set out, make sure to familiarize yourself with the rules and regulations governing camping in the areas you plan to ride. 
