@@ -7,6 +7,8 @@ toc: true
 ---
 # Where to go camping
 Camping Resources in New England
+The RideWithGPS collection below includes route layers for each New England state denoting POI markers of public camping locations and required permits and/or reservation links. Add one or more of these layers to a RideWithGPS route to add the included POIs to your route.
+  [View this collection directly](https://ridewithgps.com/collections/2658908)
 <iframe
 src="https://ridewithgps.com/collections/2658908"
 width="100%" 
