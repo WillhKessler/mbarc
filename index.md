@@ -1,7 +1,7 @@
 ---
 layout: splash
 classes: wide
-title: "Eastern Massachusetts Backcountry Adventure Riding Collective"
+title: "Eastern Massachusetts Backcountry Adventure Riding Compendium"
 header:  
   overlay_filter: "0.3"
   overlay_image: assets/images/sunset_bike.JPG
