@@ -50,6 +50,32 @@ Cities and towns across MA maintain forested areas for the enjoyment of their re
 <iframe src="https://ridewithgps.com/embeds?type=route&id=53284112&hideSurface=true" style="width: 1px; min-width: 100%; height: 550px; border: none;" scrolling="no"></iframe>
 
 ### Vermont State Parks
+Reservations can be made:
+
+    Online, 7 days a week
+    By phone, Monday–Friday, 9 a.m. – 4 p.m.
+    Directly through the park during the operating season
+
+**UPDATE**
+Starting February 11, 2026 VT State Parks are updating their camping policies! Changes have been made to the timing of reservation release dates, allowing same-day reservations, allowing one-night reservations, and updating their cancellation policy for all site types.
+**Rolling Reservation Window**
+Instead of releasing all **reservations on a single day each month, camping reservations will open on a rolling basis daily, 11 months in advance at 9:00 a.m**. This change gives you more chances to book the dates you want—30 or 31 opportunities each month instead of just one. This rolling window applies to all parks. 
+
+**Same day Reservations Available**
+Also, you can now make same-day reservations until 2 p.m. on your day of arrival. This update makes it easier to plan a last-minute getaway when sites are available.
+
+**One-Night Reservations Allowed Within 7 Days of Arrival**
+To offer more flexibility closer to your trip or for last-minute trips, Reservations made more than 7 days in advance will still require a two-night minimum, but **one-night stays are allowed within 7 days of arrival, any day of the week**
+Exceptions: Remote sites at Waterbury Reservoir, Osmore Pond, and Kettle Pond will continue to require a two-night minimum stay.
+
+**Updated Cancellation Policy for Tent, RV, Lean-to, and Cabin Sites**
+An updated cancellation timeline has been implemented to better align with neighboring state park systems and improve site availability.
+* Cancel 10 or more days before arrival: Full refund, minus the $8 reservation fee
+* Cancel 3–9 days before arrival: Refund minus the $8 reservation fee and the cost of one night
+* Cancel 0–2 days before arrival: No refund
+There are no changes to cottage or shelter reservation policies.
+
+#### Bike Camping specifics:
 Vermont State Parks do not require self contained cyclists to adhere to the 2 night minimum reservation requirement for VT state parks. However reservations must be made in advance by calling the park. Campsite availability restrictions still apply. People traveling to VT State Parks (that allow camping) under their own power (hiking, biking, or paddling) or camping in a group camping area may make 1 night reservations. Otherwise there is a 2-night minimum for advance reservations made before March 1 of the current operating season, except for Green River Reservoir. After March 1, 1-night reservations can be made Sunday - Thursday for the current operating season (except for remote sites at Waterbury Reservoir, Osmore Pond and Kettle Pond, which still have minimum stays of 2 nights.
 State Forest Primative Camping is also available in some places, general areas are marked on the map with a link to the VT DFPR maps. 
 <object data="../assets/images/VT_camping_rules_current.pdf" width="100" height="100" type='application/pdf'></object>
