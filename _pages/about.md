@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "About the Eastern Massachusetts Adventure Riding Collective"
+title: "About the Eastern Massachusetts Adventure Riding Compendium"
 classes: wide
 ---
 
