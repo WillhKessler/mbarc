@@ -23,7 +23,7 @@ height="500">
 </iframe>
 
 ## Singletrack-heavy proving grounds
-Get sendy with it. These routes are primarily singletrack. Mix and re-mix segments for a choose-your-own type adventure. Lap the technically singletrack as training for your upcoming epics like the Colorado Trail Race or Highland 550. 
+Get sendy with it. These routes are primarily singletrack. Mix and re-mix segments for a choose-your-own type adventure. Lap the technical singletrack as training for your upcoming epics like the Colorado Trail Race or Highland 550. 
 <iframe
 src="https://ridewithgps.com/collections/2010165"
 width="100%" 
