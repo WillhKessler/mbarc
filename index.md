@@ -1,7 +1,7 @@
 ---
 layout: splash
 classes: wide
-title: "Eastern Massachusetts Backcountry Adventure Riding Compendium"
+title: "Massachusetts Backcountry Adventure Riding Compendium"
 header:  
   overlay_filter: "0.3"
   overlay_image: assets/images/sunset_bike.JPG
@@ -14,11 +14,11 @@ header:
 excerpt: "Bikepacking • Dirt-road Touring • Gravel Cycling"
 intro: 
   - excerpt: >
-     Organizing resources for the bikepacking community of Eastern Massachusetts 
+     Organizing resources for the bikepacking and cyclotouring community of Massachusetts and greater New England 
 feature_row:
   - image_path: /assets/images/EasternMA_routes.png
     alt: "Ride With GPS Route Collection"
-    title: "Eastern MA Bikepacking Routes"
+    title: "Massachusetts Bikepacking Routes"
     excerpt: "There are hidden gems right out your back door"
     url: "/routes/"
     btn_label: "View Routes"
