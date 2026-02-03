@@ -1,8 +1,8 @@
 ---
 title: "Routes"
-layout: single
+layout: splash
 permalink: /routes/
-classes: wide
+# classes: wide
 ---
 ## Routes
 
