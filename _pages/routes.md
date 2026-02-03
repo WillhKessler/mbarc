@@ -32,7 +32,7 @@ height="800">
 
 
 ## Under Development
-Numerous routes are being dreamed up, planned, scouted, and refined. The following list of routes are some that we are most excited about, but haven't been thoroughly vetted for rideability, safety, or legality. If you would like to help scout these routes, please reach out, and we can share the status of the route and another other information we have available. We simply ask that in return you provide some feedback about the riding experience. If you are interested in riding one of these routes, know that you do so at your own risk. 
+Numerous routes are being dreamed up, planned, scouted, and refined. The following list of routes are some that we are most excited about, but haven't thoroughly vetted for rideability, safety, or legality. If you would like to help scout these routes, please reach out, and we can share the status of the route and any other information we have available. We simply ask that in return you provide some feedback about the riding experience. If you are interested in riding one of these routes, know that you do so at your own risk. 
 <iframe
 src="https://ridewithgps.com/collections/8220043"
 width="100%" 
