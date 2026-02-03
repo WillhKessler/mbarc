@@ -6,7 +6,7 @@ permalink: /routes/
 ---
 ## Routes
 
-The following is a a collection of cycling routes in and around the Greater Boston area. The emphasis is on unpaved, trail, and car-free trails
+The following is a collection of cycling routes in and around the Greater Boston area. The emphasis is on unpaved, trail, and car-free trails
 
 ## Gravel-focused day rides
 <iframe
@@ -23,7 +23,7 @@ height="800">
 </iframe>
 
 ## Singletrack-heavy proving grounds
-Get sendy with it. These routes are primarily singletrack. Mix and re-mix segments for a choose-your-own type adventure. Lap the technical singletrack as training for your upcoming epics like the Colorado Trail Race or Highland 550. 
+Get sendy with it. These routes are primarily singletrack. Mix and re-mix segments for a choose-your-own type adventure. Lap the technical singletrack as training for your upcoming epics like the Colorado Trail Race or Highland 550. Camping opportunities are limited to the DCR campground in Harold Parker State Forest, and a couple of private campgrounds in the vicinity.   
 <iframe
 src="https://ridewithgps.com/collections/2010165"
 width="100%" 
