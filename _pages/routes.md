@@ -6,7 +6,7 @@ permalink: /routes/
 ---
 ## Routes
 
-The following is a collection of cycling routes in and around the Greater Boston area. The emphasis is on unpaved, trail, and car-free trails
+The following is a collection of cycling routes in and around the Greater Boston area. The emphasis is on unpaved, trail, and car-free routes
 
 ## Gravel-focused day rides
 <iframe
