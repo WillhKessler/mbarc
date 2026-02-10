@@ -38,7 +38,6 @@ feature_row:
     btn_label: "How can I get Involved"
     btn_class: "btn--primary"
 ---
-{% raw %}{% seo %}{% endraw %}
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
