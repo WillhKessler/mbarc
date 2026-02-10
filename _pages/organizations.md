@@ -1,5 +1,5 @@
 ---
-title: "Other Organizations"
+title: "New England Bikepacking Organizations"
 layout: splash
 permalink: /organizations/
 classes: wide
