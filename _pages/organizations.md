@@ -42,7 +42,7 @@ organization_row:
     url: "organizations/#lichen-bike-tours"
     btn_label: "Read More"
     btn_class: "btn--inverse"
-    - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
+  - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
     title: "Adventure Rideworks"
     excerpt: "A New England route guiding and consulting company"
     url: "organizations/#adventure-rideworks"
