@@ -42,6 +42,12 @@ organization_row:
     url: "organizations/#lichen-bike-tours"
     btn_label: "Read More"
     btn_class: "btn--inverse"
+    - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
+    title: "Adventure Rideworks"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    url: "organizations/#adventure-rideworks"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
 
 ---
 # Other Organizations
@@ -54,5 +60,10 @@ organization_row:
 # Radical Adventure Riders
 # Adirondacks Bikepacking
 # Lichen Bike Tours
+# Adventure Rideworks
+Adventure Rideworks is built by cyclists who ride everything - dirt roads, tarmac, singletrack, and the forgotten paths in between. They don’t claim one genre, but have a soft spot for big days, quiet gravel roads and camping under the stars. Their planning and logistics experts love helping riders turn ideas into dialed-in adventures. They obsess over route design, itinerary details, and all the decisions that will turn a good ride into a great one and a great ride into something unforgettable.
+Located in New England, their specialty is the north east, but have the know how to help you wherever your journey takes you.
+[More Information](https://www.adventurerideworks.com/)
+
 
 
