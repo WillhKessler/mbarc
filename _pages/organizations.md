@@ -57,6 +57,12 @@ organization_row:
 # Adventure Cycling Association
 # Bikepacking Roots
 # Vermont Bikepackers
+Vermont Bikepackers is a volunteer-operated 501(c)(3) nonprofit which seeks to share bikepacking resources across Vermont. 
+
+They chart routes across the state's network of ancient unmaintained roads as well as recreational trails such as rail trails, singletrack, and town forest trails. The paths are already there -- they did not build them, but they do link them together into routes. In some cases, they are working to increase backcountry cycling access across the state. They strive to align with existing initiatives that have community support.
+
+[More Information](https://www.vermontbikepackers.org/){:target="_blank" rel="noopener"}
+​
 # Radical Adventure Riders
 # Adirondacks Bikepacking
 # Lichen Bike Tours
