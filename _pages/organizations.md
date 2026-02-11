@@ -50,7 +50,7 @@ organization_row:
     btn_class: "btn--inverse"
 
 ---
-# Other Organizations
+# New England Bikepacking Organizations
 {% include feature_row id="organization_row" %}
 
 
