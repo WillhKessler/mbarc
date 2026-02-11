@@ -12,8 +12,8 @@ The RideWithGPS collection below includes route layers for each New England stat
 [View this collection directly](https://ridewithgps.com/collections/2658908)
 <iframe
 src="https://ridewithgps.com/collections/2658908"
-width="100%" 
-height="500"> 
+width="150%" 
+height="800"> 
 </iframe>
 
 ## Connecticut
