@@ -5,9 +5,9 @@ permalink: /organizations/
 classes: wide
 organization_row:
   - image_path: https://www.adventurecycling.org/wp-content/uploads/2023/04/web_2-color_stacked.png
-    alt: "placeholder image 1"
+    alt: "Adventure Cycling Association logo. A white cirle with spokes on a blue background."
     title: "Adventure Cycling Association"
-    excerpt: "Adventure Cycling Association inspires, empowers, and connects people to travel by bicycle."
+    excerpt: "Adventure Cycling Association is a 501c(3) non-profit organization whose mission is to inspire, empower, and connect people to travel by bicycle. They steward countless routes across the United States."
     url: "organizations/#adventure-cycling-association"
     btn_label: "Read More"
     btn_class: "btn--inverse"
@@ -20,7 +20,7 @@ organization_row:
     btn_class: "btn--inverse"
   - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
     title: "Vermont Bikepackers"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "A Vermont-specific bikepacking organization which stewards routes across the Green Mountain State, hosts the 'Vermont Super 8' bikepacking race, and provides bikepacking resources for Vermont riders."
     url: "organizations/#vermont-bikepackers"
     btn_label: "Read More"
     btn_class: "btn--inverse"
