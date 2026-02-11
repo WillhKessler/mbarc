@@ -1,6 +1,6 @@
 ---
 title: "Camping"
-layout: single
+layout: splash
 permalink: /camping/
 classes: wide
 toc: true
