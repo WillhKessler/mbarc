@@ -14,7 +14,7 @@ The bikepacking and geravel cycling routes highlighted here range from well-know
 * [Bos/treal, Boston Cyclist Union](https://bostoncyclistsunion.org/bostreal)- A 400 mile adventure from Boston to Montreal (take the Amtrak back for a car-free adventure!)
 * [Mud Pie and Ice Cream Float, Bikepacking Roots](https://bikepackingroots.org/project/sundaes-fundays-ice-cream-float/)- Peri-urban overnighters accessible via public transit on the MBTA. Routes utilize significant rail trail and short sections of singletrack. Short but challenging options for beginners.
 <iframe
-src="https://ridewithgps.com/collections/8220043"
+src="https://ridewithgps.com/collections/8219851"
 width="100%" 
 height="800">
 </iframe>
@@ -23,10 +23,11 @@ height="800">
 ## Bikepacking Routes Under Development
 Numerous routes are being dreamed up, planned, scouted, and refined. The following list of routes are some that we are most excited about, but haven't thoroughly vetted for rideability, safety, or legality. If you would like to help scout these routes, please reach out, and we can share the status of the route and any other information we have available. We simply ask that in return you provide some feedback about the riding experience. If you are interested in riding one of these routes, know that you do so at your own risk. 
 <iframe
-src="https://ridewithgps.com/collections/2451753"
+src="https://ridewithgps.com/collections/8220043"
 width="100%" 
-height="800"> 
+height="800">
 </iframe>
+
 
 ## Singletrack-heavy proving grounds
 Get sendy with it. These routes are primarily singletrack. Mix and re-mix segments for a choose-your-own type adventure. Lap the technical singletrack as training for your upcoming epics like the Colorado Trail Race or Highland 550. Camping opportunities are limited to the DCR campground in Harold Parker State Forest, and a couple of private campgrounds in the vicinity.   
@@ -37,12 +38,12 @@ height="800">
 </iframe>
 
 ## Gravel-focused day rides
-
 <iframe
-src="https://ridewithgps.com/collections/8219851"
+src="https://ridewithgps.com/collections/2451753"
 width="100%" 
-height="800">
+height="800"> 
 </iframe>
+
 
 
 
