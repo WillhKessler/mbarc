@@ -36,9 +36,9 @@ organization_row:
     url: "organizations/#adirondacks-bikepacking"
     btn_label: "Read More"
     btn_class: "btn--inverse"
-  - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
+  - image_path: /assets/images/lichenbiketours.png
     title: "Lichen Bike Tours"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "A Hudson, NY route guiding company with guided trips in the Taconic Mountains and beyond"
     url: "organizations/#lichen-bike-tours"
     btn_label: "Read More"
     btn_class: "btn--inverse"
@@ -66,6 +66,17 @@ They chart routes across the state's network of ancient unmaintained roads as we
 # Radical Adventure Riders
 # Adirondacks Bikepacking
 # Lichen Bike Tours
+Lichen Bike Tours offers small group guided cycling trips with overnight camping where riders are using the frame of their bicycle to carry their own shelter, sleep, and meals. LBT takes care of every detail before and during the trip so that riders can focus on enjoying the adventure with their fellow riders.
+Their 2026 season includes:
+
+    Three WEEKEND OVERNIGHTERS that are BEGINNER FRIENDLY
+    6 Days, 5 Nights of CYCLING, CAMPING & SWIMMING in the Catskill Mountains
+    One vehicle supported COMFY OVERNIGHTER with COOKED MEALS
+    Gravel + MTB Riding in the Taconic Mountains -- No Overnight Required!
+    CUSTOM PRIVATE BIKEPACKING TOURS For Hire
+
+Trips depart from Hudson, NY which is train-accessible via Amtrak
+
 # Adventure Rideworks
 Adventure Rideworks is built by cyclists who ride everything - dirt roads, tarmac, singletrack, and the forgotten paths in between. They don’t claim one genre, but have a soft spot for big days, quiet gravel roads and camping under the stars. Their planning and logistics experts love helping riders turn ideas into dialed-in adventures. They obsess over route design, itinerary details, and all the decisions that will turn a good ride into a great one and a great ride into something unforgettable. Located in New England, their specialty is the north east, but have the know how to help you wherever your journey takes you.
 * Bag rentals
