@@ -76,6 +76,7 @@ Their 2026 season includes:
     CUSTOM PRIVATE BIKEPACKING TOURS For Hire
 
 Trips depart from Hudson, NY which is train-accessible via Amtrak
+[More Information](https://www.lichenbiketours.com/){:target="_blank" rel="noopener"}
 
 # Adventure Rideworks
 Adventure Rideworks is built by cyclists who ride everything - dirt roads, tarmac, singletrack, and the forgotten paths in between. They don’t claim one genre, but have a soft spot for big days, quiet gravel roads and camping under the stars. Their planning and logistics experts love helping riders turn ideas into dialed-in adventures. They obsess over route design, itinerary details, and all the decisions that will turn a good ride into a great one and a great ride into something unforgettable. Located in New England, their specialty is the north east, but have the know how to help you wherever your journey takes you.
