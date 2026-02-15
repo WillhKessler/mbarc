@@ -14,7 +14,7 @@ organization_row:
   - image_path: https://bikepackingroots.org/wp-content/uploads/2022/03/BPR-Logo-black-no-words.png
     alt: "Bikepacking Roots logo of a black bike and tree roots on a white background"
     title: "Bikepacking Roots"
-    excerpt: "Bikepacking Roots is a 501(c)(3)supports and advances bikepacking, the growth of a diverse bikepacking community, and access to and the conservation of the landscapes and public lands through which we ride."
+    excerpt: "Bikepacking Roots is a 501(c)(3) non-profit organization which supports and advances bikepacking, the growth of a diverse bikepacking community, and access to and the conservation of the landscapes and public lands through which we ride."
     url: "organizations/#bikepacking-roots"
     btn_label: "Read More"
     btn_class: "btn--inverse"
